@@ -1,9 +1,5 @@
-# React TypeScript Starter Pack
-
-To use this template click `Use this template`
-
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+List of Posts
+====================
+Technologies: JavaScript, React, TypeScript, HTML, Bulma, SCSS, BEM
+>
+[DEMO LINK](https://dima-cherednyk.github.io/list-of-posts/)
